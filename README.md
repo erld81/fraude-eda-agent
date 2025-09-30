@@ -9,9 +9,12 @@ fraude-eda-agent/
 │
 ├── src/                     # Códigos-fonte dos membros
 │   ├── lopes.py             # Código do Erlon Lopes
-│   ├── fagundes.py          # Código do Rafael Fagundes (agente principal)
-│   ├── silva.py             # Código do membro Silva
-│   └── ...                  # Adicionar outros membros
+│   ├── fagundes.py          # Código do Rafael Fagundes
+│   ├── borges.py            # Código do Dainel Borges
+│   ├── lara.py              # Código do Daniel Lara
+│   ├── claudia.py           # Código do Santos
+│   ├── junior.py            # Código do Jair Vargas Junior
+│   └── catito.py            # Código do Clarkson
 │
 ├── data/                    # Base de dados
 │   └── creditcard.csv       # Dataset de fraudes em cartão de crédito
@@ -71,9 +74,11 @@ streamlit run src/rag.py
  ## Equipe
 
 - Erlon Lopes Dias → src/lopes.py
-- Rafael Fagundes → src/rag.py
-- Silva → src/silva.py
-- (adicione outros membros aqui)
+- Rafael Fagundes → src/fagundes.py
+- Daniel Borges → src/borges.py
+- Claúdia → src/claudia.py
+- Jair Vargas Junior → src/junior.py
+- Clarkson → catito.py
 
 --- 
 
