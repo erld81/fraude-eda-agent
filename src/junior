@@ -1,0 +1,7 @@
+# src/junior.py
+
+def main():
+    print("Agente Jair Vargas Junior rodando!")
+
+if __name__ == "__main__":
+    main()
