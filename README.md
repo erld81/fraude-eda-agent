@@ -9,7 +9,7 @@ fraude-eda-agent/
 │
 ├── src/                     # Códigos-fonte dos membros
 │   ├── lopes.py             # Código do Erlon Lopes
-│   ├── rag.py               # Código do Rafael Fagundes (agente principal)
+│   ├── fagundes.py          # Código do Rafael Fagundes (agente principal)
 │   ├── silva.py             # Código do membro Silva
 │   └── ...                  # Adicionar outros membros
 │
