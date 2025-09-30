@@ -53,7 +53,7 @@ streamlit run src/rag.py
 
 ---
 
-## 📊 Dataset (resumo)
+  ## 📊 Dataset (resumo)
 
 - **Time**: segundos desde a primeira transação registrada.  
 - **Amount**: valor da transação.  
