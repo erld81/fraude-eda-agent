@@ -53,28 +53,27 @@ streamlit run src/rag.py
 
 ---
 
-  ## 📊 Dataset (resumo)
+## 📊 Dataset (resumo)
 
-- **Time**: segundos desde a primeira transação registrada.  
-- **Amount**: valor da transação.  
-- **V1...V28**: componentes PCA (anonimizados).  
-- **Class**: 0 = normal, 1 = fraude.  
-
-**Observação**: dataset altamente desbalanceado (~0,17% de fraudes).  
+- **Time:** segundos desde a primeira transação registrada.
+- **Amount:** valor da transação.
+- **V1...V28:** componentes PCA (anonimizados).
+- **Class:** 0 = normal, 1 = fraude.
+**Observação:** dataset altamente desbalanceado (~0,17% de fraudes).
 
 ---
 
 ## 🧑‍💻 Equipe
 
-- Erlon Lopes Dias → `src/lopes.py`  
-- Rafael Fagundes → `src/rag.py`  
-- Silva → `src/silva.py`  
-- (adicione outros membros aqui)  
+- Erlon Lopes Dias → src/lopes.py
+- Rafael Fagundes → src/rag.py
+- Silva → src/silva.py
+(adicione outros membros aqui)
 
 ---
 
 ## 📌 Próximos Passos
 
-- Implementar EDA com gráficos e estatísticas.  
-- Integrar agentes individuais.  
-- Produzir relatório final em PDF conforme atividade da disciplina.  
+Implementar EDA com gráficos e estatísticas.
+Integrar agentes individuais.
+Produzir relatório final em PDF conforme atividade da disciplina.
